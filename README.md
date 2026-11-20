@@ -1,35 +1,35 @@
-# Prabesh Sundar Taksari | Portfolio
+# Hi, I'm Prabesh Sundar Taksari 👋
 
-Personal portfolio website showcasing my projects in networking, IT security, and software.
+BSc (Hons) Computer Networking & IT Security | Islington College (London Metropolitan University)
+📍 Dhulikhel, Kavre, Nepal
 
-🔗 **Live site:** https://prabeshportfolio-virid.vercel.app
+## About Me
+I'm interested in network infrastructure, troubleshooting, and security. I've worked on vulnerability assessment projects, written structured reports, and built small projects in Python, web, and IoT.
 
-## About
-BSc (Hons) Computer Networking & IT Security student at Islington College (London Metropolitan University), based in Dhulikhel, Nepal. Open to networking and IT support internships and entry-level roles.
+🎯 **Open to:** networking and IT support internships and entry-level roles.
 
-## Sections
-- About me
-- Skills
-- Projects
-- Contact
+## 🛠️ Skills
+<p>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+</p>
 
-## Tech Stack
-- TypeScript
-- Hosted on Vercel
-- (add your framework and styling tools here, from package.json)
+- **Networking:** TCP/IP, IP addressing, DNS, DHCP, LAN setup
+- **Security:** Nmap, Metasploit, vulnerability assessment, API security basics
+- **Systems:** Windows 10, Ubuntu, Kali Linux, VirtualBox, RDP support
+- **Other:** HTML/CSS/JavaScript, report and test-case documentation
 
-## Run Locally
-```bash
-git clone https://github.com/PrabeshTaksari/prabeshportfolio.git
-cd prabeshportfolio
-npm install
-npm run dev
-```
+## 🚀 Featured Projects
+- **[Intelligence Recon System](https://github.com/PrabeshTaksari/Intelligence-Recon-System)** — Python/FastAPI platform that chains recon tools (Naabu, Httpx, Nuclei, etc.), maps findings to the OWASP Top 10, and exports HTML/PDF reports. For authorized testing only.
+- **[Backdoor Exploit Analysis](https://github.com/PrabeshTaksari/Backdoor-Exploit-Analysis)** — Lab analysis of the vsftpd 2.3.4 backdoor on an isolated VM network, with mitigation recommendations.
+- **[Fingerprint-Based Door Lock System](https://github.com/PrabeshTaksari/Fingerprint-Based-Door-Lock-System)** — ESP32 + AS608 smart lock with cloud alerts through Blynk.
+- **[Quadracrypt Cipher](https://github.com/PrabeshTaksari/Quadracrypt-Cipher)** — Educational multi-layer cipher project (Playfair, Caesar, transposition, XOR).
+- **[Portfolio](https://github.com/PrabeshTaksari/prabeshportfolio)** — Personal portfolio website built with TypeScript. [Live site](https://prabeshportfolio-virid.vercel.app)
 
-## Deployment
-Deployed with Vercel. Every push to `main` triggers a new deployment.
-
-## Contact
-- LinkedIn: https://www.linkedin.com/in/prabesh-sundar-taksari-29089242b/
-- GitHub: https://github.com/PrabeshTaksari
-- Email: taksariprabes@gmail.com
+## 🤝 Connect
+- [LinkedIn](https://www.linkedin.com/in/prabesh-sundar-taksari-29089242b/)
+- taksariprabes@gmail.com
