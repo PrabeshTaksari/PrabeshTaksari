@@ -42,4 +42,8 @@
 
 ## 🤝 Connect
 
-> Add your LinkedIn or email links here if you want to share them publicly.
+<p align="center">
+  <a href="https://www.linkedin.com/in/prabesh-sundar-taksari-29089242b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+</p>
