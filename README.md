@@ -6,7 +6,7 @@ BSc (Hons) Computer Networking & IT Security | Islington College (London Metropo
 ## About Me
 I'm interested in network infrastructure, troubleshooting, and security. I've worked on vulnerability assessment projects, written structured reports, and built small projects in Python, web, and IoT.
 
-🎯 **Open to:** networking and IT support internships and entry-level roles.
+🎯 **Open to:** networking, IT support, and cybersecurity internships and entry-level roles.
 
 ## 🛠️ Skills
 <p>
