@@ -28,7 +28,7 @@ I'm interested in network infrastructure, troubleshooting, and security. I've wo
 - **[Backdoor Exploit Analysis](https://github.com/PrabeshTaksari/Backdoor-Exploit-Analysis)** — Lab analysis of the vsftpd 2.3.4 backdoor on an isolated VM network, with mitigation recommendations.
 - **[Fingerprint-Based Door Lock System](https://github.com/PrabeshTaksari/Fingerprint-Based-Door-Lock-System)** — ESP32 + AS608 smart lock with cloud alerts through Blynk.
 - **[Quadracrypt Cipher](https://github.com/PrabeshTaksari/Quadracrypt-Cipher)** — Educational multi-layer cipher project (Playfair, Caesar, transposition, XOR).
-- **[Portfolio](PORTFOLIO_URL)** — Personal portfolio website.
+- **[Portfolio](https://prabeshportfolio-virid.vercel.app)** — Personal portfolio website.
 
 ## 🤝 Connect
 - [LinkedIn](https://www.linkedin.com/in/prabesh-sundar-taksari-29089242b/)
